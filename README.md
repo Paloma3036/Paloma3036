@@ -1,27 +1,9 @@
-# 👋 Olá, eu sou a Paloma Araujo
+# 👩🏻‍💻 Paloma Araujo
+ 
+**`Estudante de Desenvolvimento Backend & Cybersecurity | Explorando Dados e Projetos Pessoais`**
 
-Backend Developer em formação | Segurança, APIs REST e Access Control
+Me chamo Paloma, tenho 20 anos e sou natural de São Paulo. Sempre fui apaixonada por tecnologia e quando eu terminei o ensino médio eu resolvi me aprofundar na área e hoje sou estudante de Análise e Desenvolvimento de Sistemas. Busco usar a tecnologia para criar soluções que tornem a vida das pessoas mais acessível e prática.
 
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e segurança de aplicações.
-
-Tenho experiência prática na construção de APIs RESTful utilizando Node.js, Express, Prisma ORM e PostgreSQL, aplicando boas práticas de organização, autenticação e controle de acesso.
-
-Gosto de entender como os sistemas funcionam no backstage — principalmente em temas como:
-
-- Authentication & Authorization
-- Access Control
-- Arquitetura em camadas
-- Estruturação de APIs
-- Segurança de dados
-- Boas práticas de software
-
-Meus projetos são educacionais, mas desenvolvidos com mentalidade profissional e foco em escalabilidade e organização.
-
----
 
 ## 🔎 Diferenciais
 
