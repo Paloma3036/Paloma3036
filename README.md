@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:654496,100:934FDB&height=200&section=header&text=Paloma%20Araujo&fontSize=60&fontColor=B2A1CC&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20CyberSegurança&descAlignY=58&descColor=8b949e" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:591FB8,100:934FDB&height=200&section=header&text=Paloma%20Araujo&fontSize=60&fontColor=B2A1CC&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20CyberSegurança&descAlignY=58&descColor=8b949e" />
 </p
  
 <!-- Texto digitando animado -->
@@ -44,20 +44,11 @@ Usar lógica, código e análise para encontrar soluções.
   <a href="mailto:palomaaraujo5679@gmail.com">
          <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
          </a>
-
-  <a href="https://wa.me/5511983501814">
-        <img src="https://img.shields.io/badge/WhatsApp-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
-
-    
-
  </p>
-
-
 
 ---
 
-🐍 **Linguagens e Tecnologias**
+### 🧑‍💻 Linguagens e tecnologias
 
 <img 
     align="left" 
@@ -152,6 +143,17 @@ Usar lógica, código e análise para encontrar soluções.
 
 ---
 
+### 📊 Estatísticas
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paloma3036&theme=Default&hide_border=true&area=true" />
+</p>
+
+---
+
+<div align="center">
+💜 <strong>Código com intenção. Interface com propósito.</strong> 💜
+</div>
 
 
 
