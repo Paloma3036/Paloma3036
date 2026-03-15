@@ -152,7 +152,7 @@ Usar lógica, código e análise para encontrar soluções.
 ---
 
 <div align="center">
-💜 <strong>Código com intenção. Interface com propósito.</strong> 💜
+💜 <strong>Código que resolve. Tecnologia que transforma.</strong> 💜
 </div>
 
 
