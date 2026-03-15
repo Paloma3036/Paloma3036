@@ -35,14 +35,21 @@ Usar lógica, código e análise para encontrar soluções.
 
 <p>
  <a href="https://www.linkedin.com/in/paloma-araujo-0223b125a?tab=perfil">
-        <img
+         <img
            alt="Meu Perfil"
            title="Vamos se conectar"
-          src="https://custom-icon-badges.demolab.com/badge/linkedin-6B38A6?labelColor=0A66C2&style=for-the-badge&logo=&label=&logoColor=white"
+           src="https://custom-icon-badges.demolab.com/badge/linkedin-6B38A6?labelColor=0A66C2&style=for-the-badge&logo=&label=&logoColor=white"/>
          </a>
   
   <a href="mailto:palomaaraujo5679@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+         <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+         </a>
+
+  <a href="https://wa.me/5511983501814">
+        <img src="https://img.shields.io/badge/WhatsApp-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+
+    
 
  </p>
 
