@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:591FB8,100:934FDB&height=200&section=header&text=Paloma%20Araujo&fontSize=60&fontColor=B2A1CC&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20CyberSegurança&descAlignY=58&descColor=8b949e" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:591FB8,100:934FDB&height=200&section=header&text=Paloma%20Araujo&fontSize=60&fontColor=B2A1CC&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%7C%20Java%20%7C%20CyberSegurança%20%7C%20Dados&descAlignY=58&descColor=8b949e" />
 </p
  
 <!-- Texto digitando animado -->
