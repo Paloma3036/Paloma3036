@@ -85,6 +85,6 @@ Usar lógica, código e análise para encontrar soluções.
 ### 📊 Estatísticas
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paloma895&theme=dracula&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paloma3036&theme=dracula&hide_border=true&area=true" />
 
 
