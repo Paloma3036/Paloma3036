@@ -87,4 +87,10 @@ Usar lógica, código e análise para encontrar soluções.
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paloma3036&theme=dracula&hide_border=true&area=true" />
 
+---
+
+<!-- Texto digitando animado (Finalizando) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D8CED&center=true&vCenter=true&width=600&lines=Encerrando+sistema...;Armazenando+logs...;Sistema+encerrado." alt="Typing SVG" />
+</p>
 
