@@ -20,16 +20,16 @@ Me chamo Paloma, tenho 20 anos e sou natural de São Paulo. Sempre fui apaixonad
 
 O que me move na tecnologia:
 
-🔍 Curiosidade
+🔍 Curiosidade:
 Entender como sistemas funcionam por trás da interface.
 
-🔐 Segurança
+🔐 Segurança:
 Explorar formas de proteger aplicações, dados e infraestruturas.
 
-📊 Dados
+📊 Dados:
 Transformar informação bruta em insights úteis.
 
-🧠 Resolução de problemas
+🧠 Resolução de problemas:
 Usar lógica, código e análise para encontrar soluções.
 
 <p>
